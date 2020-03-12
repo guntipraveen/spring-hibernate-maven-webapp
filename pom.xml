@@ -6,7 +6,7 @@
 	<groupId>com.websystique.springmvc</groupId>
 	<artifactId>SpringHibernateExample</artifactId>
 	<packaging>war</packaging>
-	<version>2.4.14</version>
+	<version>2.4.15</version>
 	<name>SpringHibernateExample</name>
 
 	<properties>
@@ -144,7 +144,7 @@
 	    <plugins>
 		<plugin>
     		<artifactId>maven-war-plugin</artifactId>
-    		<version>2.4.14</version>
+    		<version>2.4.15</version>
     		<configuration>
         	<failOnMissingWebXml>false</failOnMissingWebXml>
     		</configuration>
@@ -154,7 +154,7 @@
 	<distributionManagement>
         <repository>
          <id>releases</id>
-             <url>http://35.202.4.196/:8081/nexus/content/repositories/releases</url>
+             <url>http://34.68.239.202/:8081/nexus/content/repositories/releases</url>
         </repository>
     	</distributionManagement>
 </project>
