@@ -17,7 +17,7 @@
 
 
 <body>
-	<h2>List of Emp's in HP env</h2>	
+	<h2>List of Emp's in Digital Lync env</h2>	
 	<img src="">
 	<table>
 		<tr>
